@@ -1,4 +1,5 @@
 # PersonalAttendanceTracker
+A java project
 
 this file is tracking attendance for each subjects
 
