@@ -1,4 +1,4 @@
-
+An attendance tracker in java
 
 this file is tracking attendance for each subjects
 
